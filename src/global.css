@@ -59,7 +59,7 @@ Section{
 }
 #banner{
     background-color: #f2f8fb;
-    background: linear-gradient(to bottom,rgba(27, 34, 56, 0.6),rgba(20, 24, 27, 0.346)), url(./public/Rashka.jpeg);
+    background: linear-gradient(to bottom,rgba(27, 34, 56, 0.6),rgba(20, 24, 27, 0.346)), url(./public/abdalla.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
 }

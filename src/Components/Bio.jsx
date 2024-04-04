@@ -11,7 +11,7 @@ export default function Bio() {
                   <a href="#Bio">Learn More</a>
               </div>
               <div className="img">
-              <img src="./public/Rashka.jpeg" alt="Me" />
+              <img src="./public/abdalla.jpeg" alt="Me" />
               </div>
           </div>
       </div>

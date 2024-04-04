@@ -5,7 +5,7 @@ const Header=()=> {
         <header>
             <div className='header'>
                 <div className='logo'>
-                    <h4>Rashka Poi</h4>
+                    <h4>Abdalla Poi</h4>
                 </div>
                 <div className='navs'>
                     <a href="#Home">Home</a>

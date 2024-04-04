@@ -4,7 +4,7 @@ const Banner=()=>{
         <section id="banner">
             <div className="banner">
                 <div className="contents">
-                    <h1> Hello, I'm Abdirashid. </h1>
+                    <h1> Hello, I'm Abdalla. </h1>
                     <p>Full-Stack WebDeveloper</p>
                     <div className="links">
                         <a href="#">See More</a>
